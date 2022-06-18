@@ -49,9 +49,43 @@
   ```bash
   fc-cache -fv
   ```
-- I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting
-	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here 
+- I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting<br />
+  if you know how to set it on another DE (if an error occurs) please let me know and I will post it here<br />
+	<details>
+ 	<summary><b>XFCE</b></summary>
+	Even fellow XFCE users have different configurations, here's how to solve the error summarized by Yittri
+	# Fixing transparency
 
+  	1. First make sure compositing is enabled in xfwm. To do this open `Settings Manager > Window Manager Tweaks > Compositor >   Enable Display Compositing` should be checked.
+  	2. In config file for the theme (for example for the Antares theme the config is in the root folder for that theme and called Antares.conf) change `own_window_argb_visual = false` to `own_window_argb_visual = true`
+
+	# Making icons render
+
+  	1. Move all the fonts in fonts file located in the theme folder to `~/.local/share/fonts`. If this folder does not exist, create it.
+  	2. In a terminal run `fc-cache`
+
+	# Making graphics appear
+
+	I'm assuming the graphics don't work properly because the themes expect for conky to be compiled with cairo which is not available in the repositories by default.
+	1.  In the aur download the PKGBUILD file for a package called conky-cairo. You can do this by running `yay -G conky-cairo` if you have yay installed. The file should be downloaded in a folder called conky-cairo.
+	2. In the PKGBUILD file edit line 25 from `pkgver=1.11.3` to `pkgver=1.12.2` or whatever the latest version of conky is.
+	3. If you're not using nvidia drivers change line 93 from `-D BUILD_NVIDIA=ON \` to `-D BUILD_NVIDIA=OFF \`.
+	4. In the same folder as the PKGBUILD file run `makepkg -si`. 
+
+	# Making conky start at login
+
+	1. In `Setting Manager > Session and Startup > Application Autostart` click on the + button. 
+	2. You can type anything in the name and description boxes but in the command box navigate to the `startup.sh` file for the theme.
+
+	Not all points have to be done, just according to the error
+	</details>
+	
+	<details>
+ 	<summary><b>GNOME</b></summary>
+	as far as I know, the error in Gnome is only about transparency, and this can be solved by changing<br />
+	`own_window_argb_visual = false` to `own_window_argb_visual = true`
+	</details>
+	
 ## :heavy_check_mark: How to use theme :
 - Make sure theme folder is in ~/.config/conky/
 - There are 2 ways to activate the theme
