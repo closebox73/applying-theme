@@ -49,6 +49,11 @@
   ```bash
   fc-cache -fv
   ```
+  
+  All fonts i get from:
+	 - [Dafont](https://www.dafont.com)
+	 - [Google Fonts](https://fonts.google.com) 
+	 
 - I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting<br />
   if you know how to set it on another DE (if an error occurs) please let me know and I will post it here<br />
 	<details>
@@ -87,7 +92,8 @@
 	</details>
 	
 ## :heavy_check_mark: How to use theme :
-- Make sure theme folder is in ~/.config/conky/
+- After you clone a theme pack repository, move one or all theme folder to ~/.config/conky/
+- do the instruction above,then 
 - There are 2 ways to activate the theme
   - Execute `start.sh`
   - If you use conky-manager2, just check the theme to be installed
