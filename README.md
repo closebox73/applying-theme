@@ -1,5 +1,12 @@
 # How to install my Conky theme collections
 
+<!-- BADGES -->
+<h1>
+  <a href="#--------">
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/applying-theme?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=1E90FF"/>
+  </a>
+</h1>
+
 ## :writing_hand: Requirements :
 - `Conky`<br />
   version 1.10.8 or newer ( but i prefer to use 1.10.8 version )<br />
@@ -43,6 +50,8 @@
   copy the city_id :
   
   ![](/asset/owm2.png)
+  and then overwrite old city_id in weather.sh
+  
   
 - Install all font in fonts folder, then update font cache by command :
   
