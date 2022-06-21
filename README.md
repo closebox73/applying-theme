@@ -110,5 +110,17 @@
 - There are 2 ways to activate the theme
   - Execute `start.sh`
   - If you use conky-manager2, just check the theme to be installed
-	![](/asset/CM2.png)
+  
+	![](/asset/CM2.png
+	
 - Done
+
+## :cyclone: Tip Jar :
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
+thank you from all my heart
+
+[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
+
+or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
