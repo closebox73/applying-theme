@@ -49,11 +49,15 @@
   
   copy the city_id :
   
-  ![](/asset/owm2.png)
+  ![](/asset/owm3.png)
   and then overwrite old city_id in weather.sh
   
   
-- Install all font in fonts folder, then update font cache by command :
+- Install all font in fonts folder
+		- by open ttf file and click install
+		- or copy/move the ttf file to `~/.fonts
+
+	then update font cache by command :
   
   ```bash
   fc-cache -fv
