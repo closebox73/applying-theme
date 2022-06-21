@@ -53,9 +53,9 @@
   and then overwrite old city_id in weather.sh
   
   
-- Install all font in fonts folder
-		- by open ttf file and click install
-		- or copy/move the ttf file to `~/.fonts
+- Install all font in fonts folder<br />
+		- by open ttf file and click install<br />
+		- or copy/move the ttf file to `~/.fonts`
 
 	then update font cache by command :
   
