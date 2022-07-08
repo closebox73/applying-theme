@@ -1,11 +1,6 @@
 # How to install my Conky theme collections
 
-<!-- BADGES -->
-<h1>
-  <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/applying-theme?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=1E90FF"/>
-  </a>
-</h1>
+![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF)
 
 ## :writing_hand: Requirements :
 - `Conky`<br />
