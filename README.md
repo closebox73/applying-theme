@@ -106,7 +106,7 @@
   - Execute `start.sh`
   - If you use conky-manager2, just check the theme to be installed
   
-	![](/asset/CM2.png
+	![](/asset/CM2.png)
 	
 - Done
 
