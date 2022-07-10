@@ -107,7 +107,19 @@
   - If you use conky-manager2, just check the theme to be installed
   
 	![](/asset/CM2.png)
-	
+	- If theme in ~/.config/conky does not appear, do this
+		- open Conky-manager and choose setting
+		![](/asset/cm01.png)
+		
+		- then choose location
+		![](/asset/cm02.png)
+		
+		- click add then navigate to ~/.config/conky then click open
+		![](/asset/cm03.png)
+		
+		- click OK then refresh conky-manager
+		![](/asset/cm04.png)
+		
 - Done
 
 ## :cyclone: Tip Jar :
