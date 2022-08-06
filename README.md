@@ -122,6 +122,12 @@
 		
 - Done
 
+## :cyclone: Software used :
+	- Conky
+	- Inkscape
+	- Geany
+	- Alacritty
+
 ## :cyclone: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
