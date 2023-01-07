@@ -14,9 +14,15 @@
   This command is used to download data from the web,it also most distros already installed<br />
 - `Conky Manager`<br />
   if you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
+### Music Player
+- `Mpd`<br />
+  because of my limited data plan, I prefer to listen to songs offline,LOL 
+- `Playerctl`<br />
+  For those who use online music players (such as spotify, youtube and others, even some offline ones can)<br />
+  In the future, I plan to use playerctl to get music player data that will be displayed in the theme
   
 ## :stop_sign: what to do before apply a theme :
-- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
+- syntax configuration of this theme for conky version 1.10.8 or newer
 - the default folder for all theme that i made is in `~/.config/conky`<br />
   if it doesn't exist please create one, some people use ~/.conky/ or maybe use their $home<br />
   if you do it can cause the theme to be broke,because everything is linked
@@ -100,8 +106,8 @@
 	</details>
 	
 ## :heavy_check_mark: How to use theme :
-- After you clone a theme pack repository, move one or all theme folder to ~/.config/conky/
-- do the instruction above,then 
+- After you download a theme,extract it then move theme folder to ~/.config/conky/
+- Do the instruction above,then 
 - There are 2 ways to activate the theme
   - Execute `start.sh`
   - If you use conky-manager2, just check the theme to be installed
@@ -124,11 +130,12 @@
 
 ## :cyclone: Software used :
 	- Conky
+	- Gimp
 	- Inkscape
 	- Geany
 	- Alacritty
 
-## :cyclone: Tip Jar :
+## :moneybag: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
 
