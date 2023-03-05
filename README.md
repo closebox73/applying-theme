@@ -51,7 +51,7 @@
   copy the city_id :
   
   ![](/asset/owm3.png)
-  and then overwrite old city_id in weather.sh
+  and then overwrite old city_id in weather which is in the scripts folder
   
   
 - Install all font in fonts folder<br />
