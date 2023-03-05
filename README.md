@@ -36,21 +36,21 @@
   ```
   then it will appear like this
   
-	![](/asset/Wlan.png)
+	![](/Asset/Wlan.png)
   
   Number 3 is your device id,then overwrite the id in the config
 - For theme that show weather information, you must have city_id that can you get from [Openweathermap](https://openweathermap.org) in the following way :
   open the website then search your city :
   
-  ![](/asset/owm1.png)
+  ![](/Asset/owm1.png)
   
   then select your city :
   
-  ![](/asset/owm2.png)
+  ![](/Asset/owm2.png)
   
   copy the city_id :
   
-  ![](/asset/owm3.png)
+  ![](/Asset/owm3.png)
   and then overwrite old city_id in weather which is in the scripts folder
   
   
@@ -112,19 +112,19 @@
   - Execute `start.sh`
   - If you use conky-manager2, just check the theme to be installed
   
-	![](/asset/CM2.png)
+	![](/Asset/CM2.png)
 	- If theme in ~/.config/conky does not appear, do this
 		- open Conky-manager and choose setting
-		![](/asset/cm01.png)
+		![](/Asset/cm01.png)
 		
 		- then choose location
-		![](/asset/cm02.png)
+		![](/Asset/cm02.png)
 		
 		- click add then navigate to ~/.config/conky then click open
-		![](/asset/cm03.png)
+		![](/Asset/cm03.png)
 		
 		- click OK then refresh conky-manager
-		![](/asset/cm04.png)
+		![](/Asset/cm04.png)
 		
 - Done
 
