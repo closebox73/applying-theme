@@ -144,3 +144,5 @@ thank you from all my heart
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
 
 or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
+
+![greetings](/Asset/logos.png)
