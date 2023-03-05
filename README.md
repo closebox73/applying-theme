@@ -145,4 +145,4 @@ thank you from all my heart
 
 or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
 
-![greetings](/Asset/logos.png)
+![](/Asset/logos.png)
