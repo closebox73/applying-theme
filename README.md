@@ -20,7 +20,8 @@
 - `Playerctl`<br />
   For those who use online music players (such as spotify, youtube and others, even some offline ones can)<br />
   In the future, I plan to use playerctl to get music player data that will be displayed in the theme
-  
+  Instalation see [playerctl github](https://github.com/altdesktop/playerctl)
+
 ## :stop_sign: what to do before apply a theme :
 - syntax configuration of this theme for conky version 1.10.8 or newer
 - the default folder for all theme that i made is in `~/.config/conky`<br />
@@ -138,8 +139,6 @@
 ## :moneybag: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
-
-[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
 
