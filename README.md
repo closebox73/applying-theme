@@ -43,26 +43,26 @@
 - For theme that show weather information, you must have city_id that can you get from [Openweathermap](https://openweathermap.org) in the following way :
   - open the website then search your city :
   
-  ![](/Asset/owm1.png)
+	![](/Asset/owm1.png)
   
   - then select your city :
   
-  ![](/Asset/owm2.png)
+	![](/Asset/owm2.png)
   
   - copy the city_id :
   
-  ![](/Asset/owm3.png)
+	![](/Asset/owm3.png)
   - and then overwrite old city_id in weather-v2.0.sh which is in the scripts folder
 - and for the api key, please use your own which you can get for free at openweathermap.org, in the following way:
   - Open the web and create an account
   - Verify your account first
   - Then at the homepage choose user option then choose My api key
   
-  ![](/Asset/api1.png)
+	![](/Asset/api1.png)
   
   - Then copy your new api key 
   
-  ![](/Asset/api2.png)
+	![](/Asset/api2.png)
   - Replace old apikey in in weather-v2.0.sh which is in the scripts folder
   - The api key that was just created can only be used a few hours after the account was created
   
