@@ -1,4 +1,4 @@
-# How to install my Conky theme collections
+![greetings](/Asset/Head.png)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF)
 
@@ -148,8 +148,7 @@
 	- Alacritty
 
 ## :moneybag: Tip Jar :
-if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
-thank you from all my heart
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes, thank you from all my heart
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
 
