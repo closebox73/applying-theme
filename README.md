@@ -2,7 +2,15 @@
     <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Head.png" width="300", height="200">
 </div>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF)
+</br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/closebox73/applying-theme?style=for-the-badge&color=7DCFFF">
+  <img src="https://img.shields.io/github/issues/closebox73/applying-theme?&style=for-the-badge&color=E0AF68">
+  <img src="https://img.shields.io/github/forks/closebox73/applying-theme?&style=for-the-badge&color=F7768E">
+  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/closebox73/applying-theme?style=for-the-badge&color=AD8EE6">
+  <img src="https://img.shields.io/github/license/closebox73/applying-theme?style=for-the-badge&color=9ECE6A">
+</p>
 
 ## :writing_hand: Requirements :
 - `Conky`<br />
@@ -154,6 +162,8 @@ if you like my themes, i will be very grateful if you are willing to make a dona
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
 
-or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
+or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF) 
 
 ![](/Asset/logos.png)
