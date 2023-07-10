@@ -88,7 +88,9 @@
   
   All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
-	 - [Google Fonts](https://fonts.google.com) 
+	 - [Google Fonts](https://fonts.google.com)
+	 
+- For theme that showing battery status, if precentage is not appear.try to search and change variable `${battery_percent}` with `${battery_percent BAT1}` ( or other number )
 	 
 - I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting<br />
   if you know how to set it on another DE (if an error occurs) please let me know and I will post it here<br />
