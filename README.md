@@ -1,5 +1,5 @@
 <div align="center" id="Draco">
-    <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Head.png" width="450", height="300">
+    <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Head.svg" width="450", height="300">
 </div>
 
 </br>
