@@ -1,4 +1,6 @@
-![greetings](/Asset/Head.png)
+<div align="center" id="Draco">
+    <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Head.png" width="300", height="200">
+</div>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF)
 
