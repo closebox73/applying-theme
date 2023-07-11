@@ -12,29 +12,29 @@
   <img src="https://img.shields.io/github/license/closebox73/applying-theme?style=for-the-badge&color=9ECE6A">
 </p>
 
+<p align="center">
+This repository contains an explanation of how to use the conky theme that I made and what needs to be considered when using it, if something is unclear, please ask in the issue, Enjoy!!
+</p>
+
 ## :writing_hand: Requirements :
 - `Conky`<br />
-  version 1.10.8 or newer ( but i prefer to use 1.10.8 version )<br />
-  open this  [Link](https://github.com/brndnmtthws/conky) for instalation from original source <br />
+  Version 1.10.8 or newer ( but i prefer to use 1.10.8 version ) open this  [Link](https://github.com/brndnmtthws/conky) for instalation from original source <br />
 - `Lua`
 - `jq`<br />
-  for the weather theme, the downloaded data is in the form of a json file, and jq is used to handle it<br />
-  most distros already installed<br />
+  For the weather theme, the downloaded data is in the form of a json file, and jq is used to handle it, most distros already installed<br />
 - `curl`<br />
   This command is used to download data from the web,it also most distros already installed<br />
 - `Conky Manager`<br />
-  if you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
+  If you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
 ### Music Player
 - `Mpd`<br />
-  because of my limited data plan, I prefer to listen to songs offline,LOL 
+  Because of my limited data plan, I prefer to listen to songs offline,LOL 
 - `Playerctl`<br />
-  For those who use online music players (such as spotify, youtube and others, even some offline ones can)<br />
-  In the future, I plan to use playerctl to get music player data that will be displayed in the theme
-  Instalation see [playerctl github](https://github.com/altdesktop/playerctl)
+  For those who use online music players (such as spotify, youtube and others, even some offline ones can) In the future, I plan to use playerctl to get music player data that will be displayed in the theme, Instalation see [playerctl github](https://github.com/altdesktop/playerctl)
 
-## :stop_sign: what to do before apply a theme :
-- syntax configuration of this theme for conky version 1.10.8 or newer
-- the default folder for all theme that i made is in `~/.config/conky`<br />
+## :stop_sign: What to do before apply a theme :
+- Syntax configuration of this theme for conky version 1.10.8 or newer
+- The default folder for all theme that i made is in `~/.config/conky`<br />
   if it doesn't exist please create one, some people use ~/.conky/ or maybe use their $home<br />
   if you do it can cause the theme to be broke,because everything is linked
 - The music player I used was `mpd`, if you use other music player the status is will not appear<br />
