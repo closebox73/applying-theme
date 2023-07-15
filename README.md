@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <div align="center" id="Draco">
     <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Head.svg" width="450", height="300">
 </div>
@@ -17,18 +18,19 @@ This repository contains an explanation of how to use the conky theme that I mad
 </p>
 
 ## :writing_hand: Requirements :
+<p><strong>Main Applications</strong></p>
 - `Conky`<br />
   Version 1.10.8 or newer ( but i prefer to use 1.10.8 version ) open this  [Link](https://github.com/brndnmtthws/conky) for instalation from original source <br />
 - `Lua`
+- `Conky Manager`<br />
+  If you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)  
 - `jq`<br />
   For the weather theme, the downloaded data is in the form of a json file, and jq is used to handle it, most distros already installed<br />
 - `curl`<br />
   This command is used to download data from the web,it also most distros already installed<br />
-- `Conky Manager`<br />
-  If you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
-### Music Player
+<p><strong>Music Player</strong></p>
 - `Mpd`<br />
-  Because of my limited data plan, I prefer to listen to songs offline,LOL 
+  Because of my limited data plan, I prefer to listen to songs offline,LOL  
 - `Playerctl`<br />
   For those who use online music players (such as spotify, youtube and others, even some offline ones can) In the future, I plan to use playerctl to get music player data that will be displayed in the theme, Instalation see [playerctl github](https://github.com/altdesktop/playerctl)
 
@@ -97,17 +99,17 @@ This repository contains an explanation of how to use the conky theme that I mad
 	<details>
  	<summary><b>XFCE</b></summary>
 	Even fellow XFCE users have different configurations, here's how to solve the error summarized by Yittri
-	# Fixing transparency
+	### Fixing transparency
 
   	1. First make sure compositing is enabled in xfwm. To do this open `Settings Manager > Window Manager Tweaks > Compositor >   Enable Display Compositing` should be checked.
   	2. In config file for the theme (for example for the Antares theme the config is in the root folder for that theme and called Antares.conf) change `own_window_argb_visual = false` to `own_window_argb_visual = true`
 
-	# Making icons render
+	### Making icons render
 
   	1. Move all the fonts in fonts file located in the theme folder to `~/.local/share/fonts`. If this folder does not exist, create it.
   	2. In a terminal run `fc-cache`
 
-	# Making graphics appear
+	### Making graphics appear
 
 	I'm assuming the graphics don't work properly because the themes expect for conky to be compiled with cairo which is not available in the repositories by default.
 	1.  In the aur download the PKGBUILD file for a package called conky-cairo. You can do this by running `yay -G conky-cairo` if you have yay installed. The file should be downloaded in a folder called conky-cairo.
@@ -115,7 +117,7 @@ This repository contains an explanation of how to use the conky theme that I mad
 	3. If you're not using nvidia drivers change line 93 from `-D BUILD_NVIDIA=ON \` to `-D BUILD_NVIDIA=OFF \`.
 	4. In the same folder as the PKGBUILD file run `makepkg -si`. 
 
-	# Making conky start at login
+	### Making conky start at login
 
 	1. In `Setting Manager > Session and Startup > Application Autostart` click on the + button. 
 	2. You can type anything in the name and description boxes but in the command box navigate to the `startup.sh` file for the theme.
@@ -169,3 +171,4 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF) 
 
 ![](/Asset/logos.png)
+<p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
