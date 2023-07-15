@@ -18,7 +18,7 @@ This repository contains an explanation of how to use the conky theme that I mad
 </p>
 
 ## :writing_hand: Requirements :
-<p><strong>Main Applications</strong></p>
+### Main Applications :
 - `Conky`<br />
   Version 1.10.8 or newer ( but i prefer to use 1.10.8 version ) open this  [Link](https://github.com/brndnmtthws/conky) for instalation from original source <br />
 - `Lua`
@@ -28,7 +28,8 @@ This repository contains an explanation of how to use the conky theme that I mad
   For the weather theme, the downloaded data is in the form of a json file, and jq is used to handle it, most distros already installed<br />
 - `curl`<br />
   This command is used to download data from the web,it also most distros already installed<br />
-<p><strong>Music Player</strong></p>
+  
+### Music Player :
 - `Mpd`<br />
   Because of my limited data plan, I prefer to listen to songs offline,LOL  
 - `Playerctl`<br />
