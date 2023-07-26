@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<div align="center" id="Draco">
+<div align="center" id="Closebox73">
     <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Head.svg" width="450", height="300">
 </div>
 
@@ -163,11 +163,13 @@ This repository contains an explanation of how to use the conky theme that I mad
 	- Alacritty
 
 ## :moneybag: Tip Jar :
-if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes, thank you from all my heart
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes, thank you from all my heart. Using Paypal :
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/closebox73) 
 
-or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x)
+or the easiest way is to download my theme on Pling Store :
+
+[![](https://img.shields.io/badge/Pling_Store-FA5E0C?style=for-the-badge)](https://www.pling.com/u/closebox73x)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF) 
 
