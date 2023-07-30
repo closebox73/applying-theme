@@ -171,10 +171,11 @@ or the easiest way is to download my theme on Pling Store :
 
 [![](https://img.shields.io/badge/Pling_Store-FA5E0C?style=for-the-badge)](https://www.pling.com/u/closebox73x)
 
+
 <div align="center" id="Logo">
     <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Logo.svg" width="250", height="50">
 </div>
-
+</br>
 <p align="center">
 	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF"
 </p>
