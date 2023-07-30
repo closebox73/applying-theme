@@ -171,7 +171,8 @@ or the easiest way is to download my theme on Pling Store :
 
 [![](https://img.shields.io/badge/Pling_Store-FA5E0C?style=for-the-badge)](https://www.pling.com/u/closebox73x)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF) 
-
 ![](/Asset/logos.png)
+<p align="center">
+	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF"
+</p>
 <p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
