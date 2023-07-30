@@ -19,15 +19,15 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient925">
+       id="linearGradient861">
       <stop
-         style="stop-color:#00ffff;stop-opacity:1"
+         style="stop-color:#ab37c8;stop-opacity:1"
          offset="0"
-         id="stop921" />
+         id="stop857" />
       <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
+         style="stop-color:#d400aa;stop-opacity:1"
          offset="1"
-         id="stop923" />
+         id="stop859" />
     </linearGradient>
     <inkscape:path-effect
        effect="offset"
@@ -42,31 +42,13 @@
        update_on_knot_move="true" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient925"
-       id="linearGradient927"
-       x1="-2.4279103"
-       y1="-79.184868"
+       xlink:href="#linearGradient861"
+       id="linearGradient863"
+       x1="-4.7072353"
+       y1="-79.494049"
        x2="3.5569453"
        y2="-74.454132"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient925"
-       id="linearGradient929"
-       gradientUnits="userSpaceOnUse"
-       x1="-2.4279103"
-       y1="-79.184868"
-       x2="3.5569453"
-       y2="-74.454132" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient925"
-       id="linearGradient931"
-       gradientUnits="userSpaceOnUse"
-       x1="-2.4279103"
-       y1="-79.184868"
-       x2="3.5569453"
-       y2="-74.454132" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -96,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,17 +171,17 @@
     <g
        aria-label="73"
        id="text839"
-       style="font-size:10.5833px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient927);fill-opacity:1;stroke-width:0.264583"
+       style="font-size:10.5833px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient863);fill-opacity:1;stroke-width:0.264583"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        transform="matrix(2.6893909,0,0,2.6893909,114.19768,219.65366)">
       <path
          d="m -6.1108987,-80.528946 h 4.9000678 q 0.1269995,0 0.1269995,0.137583 v 7.143727 q 0,0.137583 -0.1269995,0.137583 h -1.0900799 q -0.1269996,0 -0.1269996,-0.137583 v -5.937231 h -2.6246583 q -0.2222493,0 -0.3492489,-0.169332 l -0.7831642,-1.015997 q -0.042333,-0.05292 -0.010583,-0.105833 0.03175,-0.05292 0.084666,-0.05292 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:VALORANT;-inkscape-font-specification:VALORANT;fill:url(#linearGradient929);fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:VALORANT;-inkscape-font-specification:VALORANT;fill:url(#linearGradient863);fill-opacity:1;stroke-width:0.264583"
          id="path841" />
       <path
          d="m 0.44545532,-73.247636 v -1.079496 q 0,-0.05292 0.0317499,-0.08467 0.0423332,-0.04233 0.0952497,-0.04233 H 3.5569454 l -1.7568277,-2.285992 q -0.0635,-0.08467 0,-0.15875 l 1.7568277,-2.275409 H 0.57245492 q -0.0529165,0 -0.0952497,-0.04233 -0.0317499,-0.04233 -0.0317499,-0.09525 v -1.079497 q 0,-0.05292 0.0317499,-0.09525 0.0423332,-0.04233 0.0952497,-0.04233 H 4.8057748 q 0.1269996,0 0.1269996,0.137583 v 1.545162 q 0,0.137583 -0.084666,0.275166 l -1.3546624,1.756827 1.3546624,1.756828 q 0.084666,0.116416 0.084666,0.264583 v 1.545161 q 0,0.137583 -0.1269996,0.137583 H 0.57245492 q -0.0529165,0 -0.0952497,-0.04233 -0.0317499,-0.04233 -0.0317499,-0.09525 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:VALORANT;-inkscape-font-specification:VALORANT;fill:url(#linearGradient931);fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:VALORANT;-inkscape-font-specification:VALORANT;fill:url(#linearGradient863);fill-opacity:1;stroke-width:0.264583"
          id="path843" />
     </g>
   </g>

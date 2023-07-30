@@ -177,6 +177,6 @@ or the easiest way is to download my theme on Pling Store :
 </div>
 </br>
 <p align="center">
-	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%231E90FF"
+	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%23FF00CC"
 </p>
 <p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
