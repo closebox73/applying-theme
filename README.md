@@ -176,8 +176,17 @@ or the easiest way is to download my theme on Pling Store :
     <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Logo.svg" width="240", height="60">
 </div>
 </br>
-</br>
+
+<p align="center">
+  <a href="https://t.me/closebox73x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Telegram-D01DF0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://twitter.com/closebox73" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discord.com/users/1115644269802311750" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://matrix.to/#/@closebox73:matrix.org" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/matrix-0A976F?style=for-the-badge&logo=Matrix&logoColor=white"></a>
+</p>
+
+<p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
+
 <p align="center">
 	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%23FF00CC"
 </p>
-<p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
+
