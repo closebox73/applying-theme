@@ -173,8 +173,9 @@ or the easiest way is to download my theme on Pling Store :
 
 
 <div align="center" id="Logo">
-    <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Logo.svg" width="250", height="50">
+    <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Logo.svg" width="240", height="60">
 </div>
+</br>
 </br>
 <p align="center">
 	<img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=applying-theme&countColor=%23FF00CC"
