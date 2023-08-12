@@ -164,23 +164,23 @@ This repository contains an explanation of how to use the conky theme that I mad
   To solve this problem, you can experiment with theme transparency by using Conky-manager2, in the following way:
   - Open Conky-Manager2 then highlight the active theme
   
-  ![](/Asset/1trnsprnt.jpg)
+	![](/Asset/1trnsprnt.jpg)
   
   - Choose edit widget option
   
-  ![](/Asset/2trnsprnt.jpg)
+	![](/Asset/2trnsprnt.jpg)
   
   - Then Transparency
   
-  ![](/Asset/3trnsprnt.jpg)
+	![](/Asset/3trnsprnt.jpg)
   
   - Then Choose Pseudo-Transparent in Tranparency Type option
   
-  ![](/Asset/4trnsprnt.jpg)
+	![](/Asset/4trnsprnt.jpg)
   
   - Then Apply
   
-  ![](/Asset/5trnsprnt.jpg)
+	![](/Asset/5trnsprnt.jpg)
   
   - If still black, try other Transparency option.
 
