@@ -93,8 +93,12 @@ This repository contains an explanation of how to use the conky theme that I mad
 	 - [Dafont](https://www.dafont.com)
 	 - [Google Fonts](https://fonts.google.com)
 	 
-- For theme that showing battery status, if precentage is not appear.try to search and change variable `${battery_percent}` with `${battery_percent BAT1}` ( or other number )
-	 
+- For theme that showing battery status, if precentage is not appear.execute following command in terminal
+  ```bash
+  ls /sys/class/power_supply/
+  ```
+  Then overwrite default argument ( BAT0 ) with what was stated in the results of the execution of the command, the variable is `${battery_percent}`
+
 - I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting<br />
   if you know how to set it on another DE (if an error occurs) please let me know and I will post it here<br />
 	<details>
@@ -155,12 +159,37 @@ This repository contains an explanation of how to use the conky theme that I mad
 		
 - Done
 
+## :spiral_notepad: Frequent issues :
+### Black background
+  To solve this problem, you can experiment with theme transparency by using Conky-manager2, in the following way:
+  - Open Conky-Manager2 then highlight the active theme
+  
+  ![](/Asset/1trnsprnt.jpg)
+  
+  - Choose edit widget option
+  
+  ![](/Asset/2trnsprnt.jpg)
+  
+  - Then Transparency
+  
+  ![](/Asset/3trnsprnt.jpg)
+  
+  - Then Choose Pseudo-Transparent in Tranparency Type option
+  
+  ![](/Asset/4trnsprnt.jpg)
+  
+  - Then Apply
+  
+  ![](/Asset/5trnsprnt.jpg)
+  
+  - If still black, try other Transparency option.
+
 ## :cyclone: Software used :
-	- Conky
-	- Gimp
-	- Inkscape
-	- Geany
-	- Alacritty
+	- Conky *( Main Application )*
+	- Gimp and Imagemagick *( To create a preview image )*
+	- Inkscape *( to create a theme background )*
+	- Geany or Neovim *( To edit config files and scripts )*
+	- Alacritty *( to test the script or commands )*
 
 ## :moneybag: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes, thank you from all my heart. Using Paypal :
