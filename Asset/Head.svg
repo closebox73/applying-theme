@@ -44,32 +44,12 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient976"
-       id="linearGradient905"
+       id="linearGradient866"
        x1="7.8448377"
-       y1="86.168144"
+       y1="85.805626"
        x2="150.90517"
-       y2="86.168144"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.0285244e-5)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient976"
-       id="linearGradient913"
-       x1="57.856133"
-       y1="74.095863"
-       x2="100.89387"
-       y2="74.095863"
+       y2="85.805626"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient976"
-       id="linearGradient921"
-       x1="63.001617"
-       y1="97.790543"
-       x2="95.748383"
-       y2="97.790543"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,0.52916668)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -78,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="462.14323"
-     inkscape:cy="279.19881"
+     inkscape:zoom="1.4"
+     inkscape:cx="380.01722"
+     inkscape:cy="346.78602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -101,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,7 +161,7 @@
        d="M -40.585687,32.808074 C -46.50349,32.878252 -50.561476,9.2245935 -54.795619,5.0896983 -59.029761,0.95480332 -82.773,-2.5411079 -82.843179,-8.458911 c -0.07018,-5.917803 23.583481,-9.975789 27.718376,-14.209932 4.134895,-4.234142 7.630806,-27.977382 13.548609,-28.04756 5.917804,-0.07018 9.97579,23.583481 14.209932,27.718376 4.234143,4.134895 27.97738183,7.630806 28.04756015,13.548609 0.0701783,5.9178034 -23.58348015,9.97578943 -27.71837515,14.209932 -4.134895,4.2341424 -7.630807,27.977382 -13.54861,28.04756 z" />
     <path
        sodipodi:type="star"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1210"
        sodipodi:sides="4"
        sodipodi:cx="-41.08094"
@@ -220,38 +200,42 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis;fill:#4d4d4d;fill-opacity:1;stroke-width:0.978213"
          id="path883" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:8.90406px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient913);stroke-width:0.222602;fill-opacity:1.0"
-       x="57.143112"
-       y="76.321877"
-       id="text960"><tspan
-         sodipodi:role="line"
-         id="tspan958"
+    <g
+       id="g858"
+       style="fill-opacity:1.0;fill:url(#linearGradient866)">
+      <text
+         xml:space="preserve"
+         style="font-size:8.90406px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient866);stroke-width:0.222602;fill-opacity:1.0"
          x="57.143112"
          y="76.321877"
-         style="fill:url(#linearGradient913);stroke-width:0.222602;fill-opacity:1.0">How to Apply</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.8931px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:1.64694px;word-spacing:0px;fill:url(#linearGradient905);fill-opacity:1;stroke-width:0.347328"
-       x="7.1501827"
-       y="90.940422"
-       id="text964"><tspan
-         sodipodi:role="line"
-         id="tspan962"
+         id="text960"><tspan
+           sodipodi:role="line"
+           id="tspan958"
+           x="57.143112"
+           y="76.321877"
+           style="fill:url(#linearGradient866);stroke-width:0.222602;fill-opacity:1.0">How to Apply</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.8931px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:1.64694px;word-spacing:0px;fill:url(#linearGradient866);fill-opacity:1.0;stroke-width:0.347328"
          x="7.1501827"
          y="90.940422"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Beckman;-inkscape-font-specification:Beckman;fill:url(#linearGradient905);fill-opacity:1;stroke-width:0.347328">MY CONKY THEMES</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8.90406px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient921);fill-opacity:1;stroke-width:0.222602"
-       x="62.379898"
-       y="101.437"
-       id="text970"><tspan
-         sodipodi:role="line"
-         id="tspan968"
+         id="text964"><tspan
+           sodipodi:role="line"
+           id="tspan962"
+           x="7.1501827"
+           y="90.940422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Beckman;-inkscape-font-specification:Beckman;fill:url(#linearGradient866);fill-opacity:1.0;stroke-width:0.347328">MY CONKY THEMES</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.90406px;line-height:1.25;font-family:Abel;-inkscape-font-specification:Abel;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient866);fill-opacity:1.0;stroke-width:0.222602"
          x="62.379898"
          y="101.437"
-         style="fill:url(#linearGradient921);fill-opacity:1;stroke-width:0.222602">Collection</tspan></text>
+         id="text970"><tspan
+           sodipodi:role="line"
+           id="tspan968"
+           x="62.379898"
+           y="101.437"
+           style="fill:url(#linearGradient866);fill-opacity:1.0;stroke-width:0.222602">Collection</tspan></text>
+    </g>
   </g>
 </svg>
