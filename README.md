@@ -160,8 +160,8 @@ This repository contains an explanation of how to use the conky theme that I mad
 - Done
 
 ## :spiral_notepad: Frequent issues :
-### Black background
-  To solve this problem, you can experiment with theme transparency by using Conky-manager2, in the following way:
+### :wrench: Black background
+  To solve this issue, you can experiment with theme transparency by using Conky-manager2, in the following way:
   - Open Conky-Manager2 then highlight the active theme
   
 	![](/Asset/1trnsprnt.jpg)
@@ -184,12 +184,8 @@ This repository contains an explanation of how to use the conky theme that I mad
   
   - If still black, try other Transparency option.
 
-## :cyclone: Software used :
-	- Conky *( Main Application )*
-	- Gimp and Imagemagick *( To create a preview image )*
-	- Inkscape *( to create a theme background )*
-	- Geany or Neovim *( To edit config files and scripts )*
-	- Alacritty *( to test the script or commands )*
+### :wrench: Weather displays Null
+  This Happened since there are limitations to API calls from openweather, I suggest creating your own api_key and then overwrite the one in weather-v2.0.sh or weather.sh to avoid error (appears Null )You can create it for free at [Openweathermap](https://openweathermap.org).
 
 ## :moneybag: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes, thank you from all my heart. Using Paypal :
@@ -200,6 +196,13 @@ or the easiest way is to download my theme on Pling Store :
 
 [![](https://img.shields.io/badge/Pling_Store-FA5E0C?style=for-the-badge)](https://www.pling.com/u/closebox73x)
 
+## :cyclone: Software used :
+	- Conky *( Main Application )*
+	- Gimp and Imagemagick *( To create a preview image )*
+	- Inkscape *( to create a theme background )*
+	- Geany or Neovim *( To edit config files and scripts )*
+	- Alacritty *( to test the script or commands )*
+	
 
 <div align="center" id="Logo">
     <img src="https://github.com/closebox73/applying-theme/blob/main/Asset/Logo.svg" width="240", height="60">
