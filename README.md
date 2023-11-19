@@ -133,9 +133,13 @@ This repository contains an explanation of how to use the conky theme that I mad
 	<details>
  	<summary><b>GNOME</b></summary>
 	As far as I know, the error in Gnome or KDE is only about transparency, and this can be solved by changing<br />
-	`own_window_argb_visual = false,` to `own_window_argb_visual = true,`
+	
+	`own_window_argb_visual = false` to `own_window_argb_visual = true`
+	
 	And the katest solution presentad by [Cristimc8](https://github.com/cristimc8) is by adding line below to the conky config
+	
 	`draw_blended = false,`
+	
 	Try experimenting with replacing it with true or false, if suddenly Conky doesn't appear don't panic, just undo and restart Conky
 	</details>
 	
